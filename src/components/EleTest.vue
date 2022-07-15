@@ -16,7 +16,7 @@
 
 <script>
 export default {
-  //12
+
   data(){
     return{
       tableData: [{
