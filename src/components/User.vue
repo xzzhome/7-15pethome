@@ -32,6 +32,7 @@
 
 <script>
 export default {
+  //1
   data(){
     return {
       tableData: [], //一开始是没有数据的，通过方法给tableData赋值，this.tableData
